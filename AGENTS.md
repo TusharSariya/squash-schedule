@@ -4,7 +4,7 @@
 
 ### Issue tracker
 
-Track work in GitHub Issues for TusharSariya/squash-schedule.
+Track work in GitHub Issues for TusharSariyaOrg/squash-schedule.
 Before reading or publishing tickets, read `docs/agents/issue-tracker.md`.
 
 ### Triage labels

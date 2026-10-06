@@ -1,7 +1,7 @@
 # Issue tracker: GitHub
 
-Issues and specs live in TusharSariya/squash-schedule.
-Use the gh CLI with --repo TusharSariya/squash-schedule.
+Issues and specs live in TusharSariyaOrg/squash-schedule.
+Use the gh CLI with --repo TusharSariyaOrg/squash-schedule.
 
 ## Operations
 
